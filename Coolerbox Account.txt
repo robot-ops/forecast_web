@@ -1,0 +1,24 @@
+Detail Login cPanel
+Domain 			: coolerbox3tbdpolkesmar.com
+cPanel Username 	: coolerb2
+cPanel Password 	: a7YdJ339eHA+h#
+Control Panel URL 	: http://vicenza.id.domainesia.com/cpanel
+Alternatif 		: http://coolerbox3tbdpolkesmar.com/cpanel
+
+
+Informasi Server
+Server Name 	: Jakarta - Vicenza
+Server IP 	: 103.147.154.165
+SSH Port 	: 64000
+MySQL Server 	: localhost
+
+Informasi Akses FTP
+FTP Server 	: vicenza.id.domainesia.com
+FTP Server IP 	: 103.147.154.165
+FTP Port 	: 21
+SFTP Port 	: 64000 (hanya hosting Super ke atas)
+
+Database User
+database	: coolerb2_logger
+username	: coolerb2_admins
+password	: Uk01+J'5^ji^
