@@ -1,0 +1,20 @@
+Akun Email
+email	: ropa.cofiring@gmail.com
+password: #RopaCofiring123
+
+Akun Domainesia
+email	: ropa.cofiring@gmail.com
+password: #RopaCofiring123
+
+Detail Login cPanel
+Domain			: ropa-cofiring.com
+cPanel Username		: ropacofi
+cPanel Password		: 9F7gTU@*l0f3Zh
+Control Panel URL	: http://massa.id.rapidplex.com/cpanel
+Alternatif		: http://ropa-cofiring.com/cpanel
+
+Informasi Server
+Server Name	: Jakarta - Massa
+Server IP	: 36.50.77.53
+SSH Port	: 64000
+MySQL Server	: localhost
